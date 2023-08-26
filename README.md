@@ -23,5 +23,4 @@
 |事项|说明|
 --- | ---
 |三码|请自行更换三码！！！| 
-|USB定制|![微星B460I+NcaseM16 1（2A1C）](https://github.com/ZhuyuNtzh/Hackintosh-EFI-MSI_MPG_B460I_GAMING_EDGE_WIFI/assets/115443114/eb68590b-29ba-437f-9a95-d956ef68a342)
-|
+|USB定制|![微星B460I+NcaseM16 1（2A1C）](https://github.com/ZhuyuNtzh/Hackintosh-EFI-MSI_MPG_B460I_GAMING_EDGE_WIFI/assets/115443114/eb68590b-29ba-437f-9a95-d956ef68a342)|
